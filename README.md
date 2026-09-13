@@ -1,7 +1,7 @@
 # Intelligentes Testen autonomer Fahrzeuge
 
 Masterprojekt zum Thema SIL-Tests (Software-in-the-Loop) autonomer Fahrzeuge.
-Die schriftliche Dokumentation wurde analog zum Projekt als Gruppenprojekt ausgearbeitet und findet in [Schriftstück_SIL_Tests_autonomer_Fahrzeuge.pdf](https://github.com/Tristan-H11/SIL-Tests_autonomer_Fahrzeuge/blob/main/Schriftstu%CC%88ck-SIL-Tests-autonomer-Fahrzeuge.pdf)
+Die schriftliche Dokumentation wurde analog zum Projekt als Gruppenprojekt ausgearbeitet und findet sich in [Schriftstück_SIL_Tests_autonomer_Fahrzeuge.pdf](https://github.com/Tristan-H11/SIL-Tests_autonomer_Fahrzeuge/blob/main/Schriftstu%CC%88ck-SIL-Tests-autonomer-Fahrzeuge.pdf).
 
 Ziel ist es, Fahrmanöver in einer simulierten Umgebung nicht über fest verdrahtete Skripte zu prüfen, sondern über **abstrakte Szenarien**: Ein Testfall wird als Menge von Constraints beschrieben (Start-/Endposition, Dauer, Reihenfolge fachlicher Aktionen, Geschwindigkeitsgrenzen). Eine konkrete Simulation gilt als gültig, wenn sie alle Constraints erfüllt.
 
